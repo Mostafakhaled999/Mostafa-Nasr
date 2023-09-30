@@ -262,11 +262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\me99d\\source\\repos\\SeleniumTesting\\SeleniumTesting\\SeleniumTesting.csproj",
+      "projectUniqueName": "D:\\Learning\\GitHub\\Mostafa-Nasr\\SeleniumTesting\\SeleniumTesting\\SeleniumTesting.csproj",
       "projectName": "SeleniumTesting",
-      "projectPath": "C:\\Users\\me99d\\source\\repos\\SeleniumTesting\\SeleniumTesting\\SeleniumTesting.csproj",
+      "projectPath": "D:\\Learning\\GitHub\\Mostafa-Nasr\\SeleniumTesting\\SeleniumTesting\\SeleniumTesting.csproj",
       "packagesPath": "C:\\Users\\me99d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\me99d\\source\\repos\\SeleniumTesting\\SeleniumTesting\\obj\\",
+      "outputPath": "D:\\Learning\\GitHub\\Mostafa-Nasr\\SeleniumTesting\\SeleniumTesting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\me99d\\AppData\\Roaming\\NuGet\\NuGet.Config",
